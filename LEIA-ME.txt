@@ -1,0 +1,14 @@
+ng --version
+
+cd Desktop
+cd alurapic
+
+ng serve --open
+
+(encerrar: ctrl+c)
+
+
+cd Desktop
+cd api
+npm install
+api: npm start
